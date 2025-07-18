@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+async-exit-stack
+async-generator
+python-dotenv
+alembic
+psycopg2-binary
